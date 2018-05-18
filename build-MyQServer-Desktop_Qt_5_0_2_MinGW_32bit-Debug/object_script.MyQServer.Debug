@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\ServerObject.o
+./debug\MySocketServer.o
+./debug\MySocketClient.o
+./debug\dialog.o
+./debug\serverobject.o
+./debug\Server_stat.o
+./debug\moc_MySocketServer.o
+./debug\moc_MySocketClient.o
+./debug\moc_dialog.o
+);

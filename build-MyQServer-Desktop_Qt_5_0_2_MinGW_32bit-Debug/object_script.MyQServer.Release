@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\ServerObject.o
+./release\MySocketServer.o
+./release\MySocketClient.o
+./release\dialog.o
+./release\serverobject.o
+./release\Server_stat.o
+./release\moc_MySocketServer.o
+./release\moc_MySocketClient.o
+./release\moc_dialog.o
+);
